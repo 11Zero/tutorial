@@ -1,0 +1,14 @@
+﻿/sudoroger/article/details/69965295	winform中对于form设置backgroundimage时会出现窗口无法显示的情况	在对一个已经成型的软件添加一个简单的欢迎界面是，偷懒只用一个不带边框的form来做，在主窗口初始
+/sudoroger/article/details/63262888	.net下正态分布或高斯分布概率查表函数	由于需要，网上找了函数表写了个求概率函数，对于标准正态分布只需两个参数，即所求概率区间上下限，上
+/sudoroger/article/details/60782580	C#操作xml	C#操作xml，节点，属性，获取，添加，删除...
+/sudoroger/article/details/60348158	wpf中invoke传递参数时传递ref参数或者out参数无效	在用Dispatcher.Invoke()访问主线程控件时，要把text相关控件的text信息输
+/sudoroger/article/details/54955328	C#中多线程更新Chart控件与BeginInvoke	C#中多线程更新Chart控件与BeginInvoke最近把之前修改的MFC平台上的监控程序移植
+/sudoroger/article/details/54564451	C#线程类框架，支持消息队列，通过postmessage从UI线程发送消息到工作者线程	C#，封装Thread类，直接通过postmessage向线程发送消息，支持线程暂停，恢复，结束
+/sudoroger/article/details/52516897	VC操作word和excel文件，查询与读写[依赖office环境]	2016-07-2610:15AM 田海涛>>记录>>合肥工业大学由于孟师兄的碗扣
+/sudoroger/article/details/52512697	移植MATLAB神经网络算法到MFC平台	该算法需利用高斯随机分布来制造预测，因此另封装一个randn()函数制造伪高斯随机数，然后在Fo
+/sudoroger/article/details/52512672	MFC程序应用BCGControl界面效果	vc6.0比较经典且运行环境要求较低，虽然是98年的产物，但仍被广泛应用，最近一直修改软件，可能
+/sudoroger/article/details/52512640	利用OpenGL添加AutoCAD中的平移与缩放功能	1、添加openGL库，同过在dialog中添加picture控件来悬挂openGL视窗，悬挂方
+/sudoroger/article/details/52497831	MFC中使用BasicExcel外部类	移动自2016-2-1801:06QQ空间日志还是因为师兄的项目需要添加excel读写功能
+/sudoroger/article/details/52497631	通过CDatabase类创建xls文件	移动自2016-2-1718:20QQ空间日志还没本科毕业就接到研究生导师的指导：不惜一切
+/sudoroger/article/details/52497514	imageview循环渐变	移动自2015-11-1018:23QQ空间日志当时出于兴趣想体会一下app的开发过程
+/sudoroger/article/details/52497493	晚上睡之前练习打字，打打吕鑫大师教我的	移动自2015-8-2722:27QQ空间日志那天，又是很晚才开始搞。
